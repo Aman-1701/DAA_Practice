@@ -4,8 +4,8 @@
 
 1.  O-1 Knapsack<br>
     &emsp;   |___ Recursive.<br>
-    &emsp;   |___ Memonisation / BottomUp.<br>
-    &emsp;   |___ Tabulation / Top Down.<br>
+    &emsp;   |___ Memonisation.<br>
+    &emsp;   |___ Tabulation.<br>
 2.  Subset Sum Problem.<br>
 3.  Count Subset Sum Problem.<br>
 4.  Equal Sum Partition.<br>
@@ -25,5 +25,7 @@
 18. Min Deletion To make string Palindrome.
 19. Min Insert to make string Palindrome.
 20. Min operations to convert one String to another.
+21. MCM Recursive
+22. MCM Memonisation
 
 
